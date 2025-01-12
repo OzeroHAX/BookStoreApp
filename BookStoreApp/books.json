@@ -1,0 +1,230 @@
+﻿[
+  {
+    "Author": "Джордж Оруэлл",
+    "Title": "1984",
+    "PublishDate": "1949-06-08",
+    "Quantity": 10
+  },
+  {
+    "Author": "Джон Толкин",
+    "Title": "Властелин колец",
+    "PublishDate": "1954-07-29",
+    "Quantity": 5
+  },
+  {
+    "Author": "Фёдор Достоевский",
+    "Title": "Преступление и наказание",
+    "PublishDate": "1866-01-01",
+    "Quantity": 8
+  },
+  {
+    "Author": "Антуан де Сент-Экзюпери",
+    "Title": "Маленький принц",
+    "PublishDate": "1943-04-06",
+    "Quantity": 12
+  },
+  {
+    "Author": "Лев Толстой",
+    "Title": "Война и мир",
+    "PublishDate": "1869-03-03",
+    "Quantity": 6
+  },
+  {
+    "Author": "Михаил Булгаков",
+    "Title": "Мастер и Маргарита",
+    "PublishDate": "1967-11-12",
+    "Quantity": 15
+  },
+  {
+    "Author": "Даниэль Дефо",
+    "Title": "Робинзон Крузо",
+    "PublishDate": "1719-04-25",
+    "Quantity": 9
+  },
+  {
+    "Author": "Артур Конан Дойл",
+    "Title": "Приключения Шерлока Холмса",
+    "PublishDate": "1892-10-14",
+    "Quantity": 10
+  },
+  {
+    "Author": "Джейн Остин",
+    "Title": "Гордость и предубеждение",
+    "PublishDate": "1813-01-28",
+    "Quantity": 7
+  },
+  {
+    "Author": "Александр Дюма",
+    "Title": "Граф Монте-Кристо",
+    "PublishDate": "1844-08-28",
+    "Quantity": 4
+  },
+  {
+    "Author": "Габриэль Гарсиа Маркес",
+    "Title": "Сто лет одиночества",
+    "PublishDate": "1967-05-30",
+    "Quantity": 8
+  },
+  {
+    "Author": "Чарльз Диккенс",
+    "Title": "Оливер Твист",
+    "PublishDate": "1837-02-07",
+    "Quantity": 6
+  },
+  {
+    "Author": "Джек Лондон",
+    "Title": "Белый клык",
+    "PublishDate": "1906-05-10",
+    "Quantity": 11
+  },
+  {
+    "Author": "Рэй Брэдбери",
+    "Title": "451 градус по Фаренгейту",
+    "PublishDate": "1953-10-19",
+    "Quantity": 14
+  },
+  {
+    "Author": "Джером Д. Сэлинджер",
+    "Title": "Над пропастью во ржи",
+    "PublishDate": "1951-07-16",
+    "Quantity": 9
+  },
+  {
+    "Author": "Джонатан Свифт",
+    "Title": "Путешествия Гулливера",
+    "PublishDate": "1726-10-28",
+    "Quantity": 7
+  },
+  {
+    "Author": "Эрнест Хемингуэй",
+    "Title": "Старик и море",
+    "PublishDate": "1952-09-01",
+    "Quantity": 10
+  },
+  {
+    "Author": "Франсуа Рабле",
+    "Title": "Гаргантюа и Пантагрюэль",
+    "PublishDate": "1534-01-01",
+    "Quantity": 6
+  },
+  {
+    "Author": "Уильям Голдинг",
+    "Title": "Повелитель мух",
+    "PublishDate": "1954-09-17",
+    "Quantity": 5
+  },
+  {
+    "Author": "Маргарет Митчелл",
+    "Title": "Унесённые ветром",
+    "PublishDate": "1936-06-30",
+    "Quantity": 12
+  },
+  {
+    "Author": "Джордж Элиот",
+    "Title": "Миддлмарч",
+    "PublishDate": "1871-12-01",
+    "Quantity": 7
+  },
+  {
+    "Author": "Достоевский Ф.М.",
+    "Title": "Идиот",
+    "PublishDate": "1869-06-26",
+    "Quantity": 10
+  },
+  {
+    "Author": "Виктор Гюго",
+    "Title": "Отверженные",
+    "PublishDate": "1862-04-03",
+    "Quantity": 9
+  },
+  {
+    "Author": "Герман Мелвилл",
+    "Title": "Моби Дик",
+    "PublishDate": "1851-11-14",
+    "Quantity": 6
+  },
+  {
+    "Author": "Джозеф Конрад",
+    "Title": "Сердце тьмы",
+    "PublishDate": "1899-11-01",
+    "Quantity": 11
+  },
+  {
+    "Author": "Джеймс Джойс",
+    "Title": "Улисс",
+    "PublishDate": "1922-02-02",
+    "Quantity": 4
+  },
+  {
+    "Author": "Льюис Кэрролл",
+    "Title": "Алиса в стране чудес",
+    "PublishDate": "1865-11-26",
+    "Quantity": 7
+  },
+  {
+    "Author": "Эдгар Аллан По",
+    "Title": "Собрание рассказов",
+    "PublishDate": "1845-01-01",
+    "Quantity": 6
+  },
+  {
+    "Author": "Гастон Леру",
+    "Title": "Призрак Оперы",
+    "PublishDate": "1910-01-01",
+    "Quantity": 10
+  },
+  {
+    "Author": "Марк Твен",
+    "Title": "Приключения Тома Сойера",
+    "PublishDate": "1876-06-01",
+    "Quantity": 9
+  },
+  {
+    "Author": "Жюль Верн",
+    "Title": "Вокруг света за 80 дней",
+    "PublishDate": "1873-01-30",
+    "Quantity": 12
+  },
+  {
+    "Author": "Стивен Кинг",
+    "Title": "Сияние",
+    "PublishDate": "1977-01-28",
+    "Quantity": 8
+  },
+  {
+    "Author": "Гарпер Ли",
+    "Title": "Убить пересмешника",
+    "PublishDate": "1960-07-11",
+    "Quantity": 14
+  },
+  {
+    "Author": "Джон Стейнбек",
+    "Title": "Гроздья гнева",
+    "PublishDate": "1939-04-14",
+    "Quantity": 9
+  },
+  {
+    "Author": "Мэри Шелли",
+    "Title": "Франкенштейн",
+    "PublishDate": "1818-01-01",
+    "Quantity": 7
+  },
+  {
+    "Author": "Чарльз Диккенс",
+    "Title": "Большие надежды",
+    "PublishDate": "1861-08-01",
+    "Quantity": 10
+  },
+  {
+    "Author": "Даниэль Дефо",
+    "Title": "Молль Флендерс",
+    "PublishDate": "1722-01-01",
+    "Quantity": 5
+  },
+  {
+    "Author": "Агата Кристи",
+    "Title": "Убийство в Восточном экспрессе",
+    "PublishDate": "1934-01-01",
+    "Quantity": 12
+  }
+]

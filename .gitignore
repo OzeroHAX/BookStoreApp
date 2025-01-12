@@ -1,0 +1,81 @@
+﻿# Rider Project Files
+.idea/
+*.iml
+.idea_modules/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]ppPackages/
+[Aa]sset[Aa]ssemblies/
+[Aa]uto[Gg]enerated/
+obj/
+
+# Rider run configs
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/uiDesigner.xml
+.idea/copyright/
+.idea/shelf/
+.idea/modules.xml
+
+# DotNet specific
+*.dll
+*.pdb
+*.exe
+*.app
+*.dylib
+*.so
+*.a
+*.lib
+*.swp
+*.lock.json
+*.log
+*.cache
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+project.lock.json
+artifacts/
+
+# Visual Studio files
+.vs/
+.vscode/
+
+# OS generated files
+[Tt]humbs.db
+*.DS_Store
+
+# Rider caches and logs
+.idea/.idea.*
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/caches/
+.idea/watcherTasks.xml
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Rider logs
+.idea/logs/
+.idea/temp/
+
+# ReSharper files
+_ReSharper.*
+*.DotSettings.user
